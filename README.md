@@ -91,7 +91,7 @@ To run the Cloud-Based Blog Page locally, follow these steps:
    npm start
 or in docker 
 ```bash
-   docker compose up
+     docker compose up
 
 
 
